@@ -1,0 +1,15 @@
+C:\vscode\C#Projects\lab1\bin\Debug\net6.0-windows\lab1.exe
+C:\vscode\C#Projects\lab1\bin\Debug\net6.0-windows\lab1.deps.json
+C:\vscode\C#Projects\lab1\bin\Debug\net6.0-windows\lab1.runtimeconfig.json
+C:\vscode\C#Projects\lab1\bin\Debug\net6.0-windows\lab1.dll
+C:\vscode\C#Projects\lab1\bin\Debug\net6.0-windows\lab1.pdb
+C:\vscode\C#Projects\lab1\obj\Debug\net6.0-windows\lab1.csproj.AssemblyReference.cache
+C:\vscode\C#Projects\lab1\obj\Debug\net6.0-windows\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode\C#Projects\lab1\obj\Debug\net6.0-windows\lab1.AssemblyInfoInputs.cache
+C:\vscode\C#Projects\lab1\obj\Debug\net6.0-windows\lab1.AssemblyInfo.cs
+C:\vscode\C#Projects\lab1\obj\Debug\net6.0-windows\lab1.csproj.CoreCompileInputs.cache
+C:\vscode\C#Projects\lab1\obj\Debug\net6.0-windows\lab1.dll
+C:\vscode\C#Projects\lab1\obj\Debug\net6.0-windows\refint\lab1.dll
+C:\vscode\C#Projects\lab1\obj\Debug\net6.0-windows\lab1.pdb
+C:\vscode\C#Projects\lab1\obj\Debug\net6.0-windows\lab1.genruntimeconfig.cache
+C:\vscode\C#Projects\lab1\obj\Debug\net6.0-windows\ref\lab1.dll
