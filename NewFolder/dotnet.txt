@@ -1,0 +1,5 @@
+Run C# Project (another way):
+
+dotnet run --project lab4.csproj
+
+downloaded sdk 3.5 (2.0-3.0)
